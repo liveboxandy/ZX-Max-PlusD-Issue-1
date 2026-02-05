@@ -1,0 +1,860 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "146308b4-769b-4acb-acdb-ba3d983fa25f")
+	(paper "A4")
+	(lib_symbols
+		(symbol "Max128_Issue5:MountingHole"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom no)
+			(on_board yes)
+			(property "Reference" "H"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "MountingHole"
+				(at 0 3.175 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "Mod:MountingHole_3.2mm_M3_DIN965"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Mounting Hole without connection"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "mounting hole"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "MountingHole*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "MountingHole_0_1"
+				(circle
+					(center 0 0)
+					(radius 1.27)
+					(stroke
+						(width 1.27)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+	)
+	(symbol
+		(lib_id "Max128_Issue5:MountingHole")
+		(at 16.256 172.974 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "156b69b5-3c79-4da9-b045-8a28861ee803")
+		(property "Reference" "M4"
+			(at 19.05 171.7039 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 19.05 174.2439 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Mod:MountingHole_3.2mm_M3_DIN965"
+			(at 16.256 172.974 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 16.256 172.974 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 16.256 172.974 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "ZX Max 128 PlusD Issue1"
+				(path "/146308b4-769b-4acb-acdb-ba3d983fa25f"
+					(reference "M4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Max128_Issue5:MountingHole")
+		(at 16.256 179.07 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "19650ccd-5106-4562-8a6c-fda2598cdf67")
+		(property "Reference" "M5"
+			(at 19.05 177.7999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 19.05 180.3399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Mod:MountingHole_3.2mm_M3_DIN965"
+			(at 16.256 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 16.256 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 16.256 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "ZX Max 128 PlusD Issue1"
+				(path "/146308b4-769b-4acb-acdb-ba3d983fa25f"
+					(reference "M5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Max128_Issue5:MountingHole")
+		(at 16.256 184.658 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1aef963f-0a92-4830-9e6a-5347922dc98d")
+		(property "Reference" "M6"
+			(at 19.05 183.3879 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 19.05 185.9279 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Mod:MountingHole_3.2mm_M3_DIN965"
+			(at 16.256 184.658 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 16.256 184.658 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 16.256 184.658 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "ZX Max 128 PlusD Issue1"
+				(path "/146308b4-769b-4acb-acdb-ba3d983fa25f"
+					(reference "M6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Max128_Issue5:MountingHole")
+		(at 16.256 166.878 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7e0c9e3d-7863-4dab-920c-f20c22c9dc2d")
+		(property "Reference" "M3"
+			(at 19.05 165.6079 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 19.05 168.1479 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Mod:MountingHole_3.2mm_M3_DIN965"
+			(at 16.256 166.878 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 16.256 166.878 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 16.256 166.878 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "ZX Max 128 PlusD Issue1"
+				(path "/146308b4-769b-4acb-acdb-ba3d983fa25f"
+					(reference "M3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Max128_Issue5:MountingHole")
+		(at 16.256 160.274 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9380ef33-0bfa-4853-9908-f37f4a28a752")
+		(property "Reference" "M2"
+			(at 19.05 159.0039 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 19.05 161.5439 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Mod:MountingHole_3.2mm_M3_DIN965"
+			(at 16.256 160.274 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 16.256 160.274 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 16.256 160.274 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "ZX Max 128 PlusD Issue1"
+				(path "/146308b4-769b-4acb-acdb-ba3d983fa25f"
+					(reference "M2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Max128_Issue5:MountingHole")
+		(at 16.256 154.432 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "aab4e69b-2bcd-4757-9b39-08786455f9be")
+		(property "Reference" "M1"
+			(at 19.05 153.1619 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 19.05 155.7019 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Mod:MountingHole_3.2mm_M3_DIN965"
+			(at 16.256 154.432 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 16.256 154.432 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 16.256 154.432 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project ""
+				(path "/146308b4-769b-4acb-acdb-ba3d983fa25f"
+					(reference "M1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(sheet
+		(at 15.748 81.026)
+		(size 25.908 4.826)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "0d14a507-e53e-49b0-a4f5-b27cab7689ce")
+		(property "Sheetname" "Joystick"
+			(at 15.748 80.3144 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Joystick.kicad_sch"
+			(at 15.748 86.4366 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ZX Max 128 PlusD Issue1"
+				(path "/146308b4-769b-4acb-acdb-ba3d983fa25f"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 15.24 127)
+		(size 25.146 5.588)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "149294fb-9844-4165-a173-a9730edf4b93")
+		(property "Sheetname" "Midi"
+			(at 15.24 126.2884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Midi.kicad_sch"
+			(at 15.24 133.1726 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ZX Max 128 PlusD Issue1"
+				(path "/146308b4-769b-4acb-acdb-ba3d983fa25f"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 15.494 112.522)
+		(size 25.654 6.096)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "427a3d71-2b03-4e9e-9bc2-0061962077b7")
+		(property "Sheetname" "SAA1099"
+			(at 15.494 111.8104 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "SAA1099.kicad_sch"
+			(at 15.494 119.2026 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ZX Max 128 PlusD Issue1"
+				(path "/146308b4-769b-4acb-acdb-ba3d983fa25f"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 16.256 38.608)
+		(size 25.654 6.35)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "4e3b9a4f-8d8c-4196-8d28-700842aaab3d")
+		(property "Sheetname" "CPU-ROM-RAM"
+			(at 16.256 37.8964 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "CPU-ROM-RAM.kicad_sch"
+			(at 16.256 45.5426 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ZX Max 128 PlusD Issue1"
+				(path "/146308b4-769b-4acb-acdb-ba3d983fa25f"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 15.24 67.818)
+		(size 26.924 5.588)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "502198b2-5278-40e3-b345-7ab575ef589b")
+		(property "Sheetname" "VideoEarMic"
+			(at 15.24 67.1064 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Video.kicad_sch"
+			(at 15.24 73.9906 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ZX Max 128 PlusD Issue1"
+				(path "/146308b4-769b-4acb-acdb-ba3d983fa25f"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 14.986 96.012)
+		(size 26.162 6.604)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f9af6afc-dcde-468f-a393-25998640b5b7")
+		(property "Sheetname" "Turbo Sound"
+			(at 14.986 95.3004 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Turbo SOund.kicad_sch"
+			(at 14.986 103.2006 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ZX Max 128 PlusD Issue1"
+				(path "/146308b4-769b-4acb-acdb-ba3d983fa25f"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 16.002 138.938)
+		(size 24.384 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "fa4036eb-87b2-4579-94d0-38b349c10e79")
+		(property "Sheetname" "PlusD"
+			(at 16.002 138.2264 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "PlusD.kicad_sch"
+			(at 16.002 143.3326 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ZX Max 128 PlusD Issue1"
+				(path "/146308b4-769b-4acb-acdb-ba3d983fa25f"
+					(page "10")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 16.002 52.578)
+		(size 25.908 6.35)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "fc908cf3-03a2-447d-a1b2-6d7454341b90")
+		(property "Sheetname" "EPM7128S"
+			(at 16.002 51.8664 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "EPM7128S.kicad_sch"
+			(at 16.002 59.5126 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ZX Max 128 PlusD Issue1"
+				(path "/146308b4-769b-4acb-acdb-ba3d983fa25f"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 16.51 20.066)
+		(size 25.654 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "fcbcbcef-32af-4b3a-b561-b56d9425227d")
+		(property "Sheetname" "Power & Filters"
+			(at 16.51 19.3544 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power&Filter.kicad_sch"
+			(at 16.51 28.2706 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ZX Max 128 PlusD Issue1"
+				(path "/146308b4-769b-4acb-acdb-ba3d983fa25f"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
